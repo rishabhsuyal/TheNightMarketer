@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheNightMarketer/static/css/main.b2cedef5.css",
+    "main.js": "/TheNightMarketer/static/js/main.a7756851.js",
+    "index.html": "/TheNightMarketer/index.html",
+    "main.b2cedef5.css.map": "/TheNightMarketer/static/css/main.b2cedef5.css.map",
+    "main.a7756851.js.map": "/TheNightMarketer/static/js/main.a7756851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2cedef5.css",
+    "static/js/main.a7756851.js"
+  ]
+}
